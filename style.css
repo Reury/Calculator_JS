@@ -56,10 +56,15 @@ body{
 
 
 .output .previous-operand{
-    color: rgba(255,255,255,.75)
+    color: rgba(255,255,255,.75);
+    /*background-color: #00ff6c;
+    padding: 10px;
+    */
 }
 
 .output .current-operand{
     color: white;
+ /*   background-color: #00ff6c;
+    padding: 10px;*/
     font-size: 2.5rem;
 }
