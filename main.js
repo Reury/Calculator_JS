@@ -16,7 +16,7 @@ class Calculator{
         this.operation = undefined
 
     }
-    //test
+    
 
     delete(){
         this.currentOperand = this.currentOperand.slice(0,this.currentOperand.length -1)
